@@ -123,7 +123,9 @@ IDS-ML-Cybersecurity/
 ---
 
 ## License
-MIT License
+This project is licensed under the **MIT License**.
+
+---
 
 ## Author
 VIDHI MISTRY
